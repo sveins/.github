@@ -1,6 +1,6 @@
 <h3 align="center">
-	<img src="assets/si-git.png" width="520" alt="Ratcave Logo"/><br/>
-	Ratcave - Portfolio
+	<img src="assets/si-git.png" width="520" alt="Si"/><br/>
+	Swedish Institute
 </h3>
 
 <p align="center">
