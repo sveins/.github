@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="assets/ratcave.png" width="520" alt="Ratcave Logo"/><br/>
+	<img src="assets/si-git.png" width="520" alt="Ratcave Logo"/><br/>
 	Ratcave - Portfolio
 </h3>
 
