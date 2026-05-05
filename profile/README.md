@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/si">
+	<a href="https://github.com/sveins">
 		<img src="https://img.shields.io/badge/GitHub-SI-363a4f?style=for-the-badge&logo=github" alt="SI GitHub" />
 	</a>
 </p>
