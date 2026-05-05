@@ -1,6 +1,5 @@
 <h3 align="center">
-	<img src="assets/si-git.png" width="520" alt="Si"/><br/>
-	Swedish Institute
+	<img src="assets/si-git.jpg" width="520" alt="Si"/><br/>
 </h3>
 
 <p align="center">
