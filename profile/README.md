@@ -3,7 +3,7 @@
   <tr> 
    <td align="center">
       <img src="assets/ola_ericson-skeppsbron_-1093.jpg" alt="Ola Ericson" width="1000" />
-      <p><strong>Ola Ericson</strong><br/><small>Photographer</small></p>
+      <p><strong>Ola Ericson</strong><br/><small>Photographer - We make Sweden better known around the world. This contributes to prosperity, security and more </small></p>
     </td>
 
   </tr>
@@ -18,4 +18,4 @@
 
 ## Index
 
-- Official site: https://sweden.se
+- Official site: https://si.se
