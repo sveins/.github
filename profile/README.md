@@ -8,9 +8,6 @@
 	</a>
 </p>
 
-We show the world Sweden’s opportunities. Our mission is to strengthen, protect and track how 
-Sweden is perceived abroad
-
 
 ## Index
 
