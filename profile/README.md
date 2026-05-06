@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="assets/si-git.jpg" width="520" alt="Si"/><br/>
+	<img src="assets/SI_grafiskt%20element_16-9.png" width="100%" alt="Gradient background"/><br/>
 </h3>
 
 <p align="center">
